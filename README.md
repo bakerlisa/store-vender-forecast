@@ -1,4 +1,4 @@
-# Sustenance Vender Forecast Model
+# Store Vender Forecast Model
 
 Machine Learning - predicting the sales of foods 
 
