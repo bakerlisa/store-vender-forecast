@@ -5,10 +5,10 @@ Author: Lisa Broadhead
 
 ## Data Science Predictive Model
 
-Store counts went down, reunve stayed the same, and more SuperMarket1 are being built
+Store counts went down, reunve stayed the same, and more SuperMarket Type 1 are being built
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_sales_2.png" />
 
-Though less stores are being built revuene has still continued to raise
+Reunve didn't go down because SuperMarket Type 1 were being built and they're bringin in the most revenu. Even though, based on product cateogry they don't have the highest priced items. 
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
 
 
