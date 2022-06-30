@@ -1,4 +1,5 @@
 # Store Vender Forecast Model
+Helps the retailer understand the properties of products and outlets that play crucial roles in predicting sales
 
 Author: Lisa Broadhead
 
@@ -9,8 +10,6 @@ Author: Lisa Broadhead
 
 ## Machine Leanring Models
 
-### Business Problem:
-Help the retailer understand the properties of products and outlets that play crucial roles in predicting sales
 
 Data: 
 
