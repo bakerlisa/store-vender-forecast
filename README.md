@@ -22,7 +22,10 @@ Of the SuperMarket Type 1, medium-low locations are bringing in the most revune.
 
 ### Results
 Based on our models, SuperMarket Type 1, Medium-Low stores are the best stores to build
+
 ## Machine Leanring Models
+<strong>Full Documentation</strong>
+https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_models.ipynb
 
 ### Methods
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression.png" />
