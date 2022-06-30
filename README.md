@@ -5,13 +5,14 @@ Author: Lisa Broadhead
 
 ## Data Science Predictive Model
 
-Shows how store count and size has gone down
+Shows how store count and size has gone down, but more medium sized store are being built
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_built.png" />
 
-The overall revuen for each store and per category
+hough less stores are being built revuen has still continued to raise
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
 
-<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
+
+<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/store_type_size%20(1).png" />
 
 ## Machine Leanring Models
 
