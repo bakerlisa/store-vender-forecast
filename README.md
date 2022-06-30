@@ -19,3 +19,9 @@ https://drive.google.com/drive/u/0/folders/1p5lPFn2pmZ0XtW_4oIjYB8PXxETe2Rg9
 
 ### Limitations & Next Steps
 Our prediviet models are not very accurate and our large numbers are being penalized.
+
+
+### For further information
+For any additional questions, please contact email
+Lisa Broadhead
+lb.broadhead@gmail.com
