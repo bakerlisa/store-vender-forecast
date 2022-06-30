@@ -11,9 +11,11 @@ Store counts went down, reunve stayed the same, and more SuperMarket Type 1 are 
 Reunve didn't go down because SuperMarket Type 1 were being built and they're bringin in the most revenu. Even though, based on product cateogry they don't have the highest priced items. 
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
 
-
+Of the SuperMarket Type 1, medium-low locations are bringing in the most revune.
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/store_type_size%20(1).png" />
 
+### Results
+Based on our models, SuperMarket Type 1, Medium-Low stores are the best stores to build
 ## Machine Leanring Models
 
 
