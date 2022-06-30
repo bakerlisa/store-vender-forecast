@@ -9,13 +9,16 @@ Author: Lisa Broadhead
 
 ## Machine Leanring Models
 
-#### Business Problem:
+### Business Problem:
 Help the retailer understand the properties of products and outlets that play crucial roles in predicting sales
 
 Data: 
 
 https://drive.google.com/drive/u/0/folders/1p5lPFn2pmZ0XtW_4oIjYB8PXxETe2Rg9
 
+### Methods
+
+### Results
 
 ### Limitations & Next Steps
 Our prediviet models are not very accurate and our large numbers are being penalized.
