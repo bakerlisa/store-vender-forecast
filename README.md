@@ -28,6 +28,7 @@ Based on our models, SuperMarket Type 1, Medium-Low stores are the best stores t
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression.png" />
 
 ### Results
+Bagged Regression model will be the best model to use
 
 ### Limitations & Next Steps
 Our prediviet models are not very accurate and our large numbers are being penalized.
