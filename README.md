@@ -25,7 +25,7 @@ Based on our models, SuperMarket Type 1, Medium-Low stores are the best stores t
 ## Machine Leanring Models
 
 ### Methods
-<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_models%20(2).png" />
+<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression.png" />
 
 ### Results
 
