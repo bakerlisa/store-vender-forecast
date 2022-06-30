@@ -9,7 +9,7 @@ Shows how store count and size has gone down
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_built.png" />
 
 The overall revuen for each 
-<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png"/>
+<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
 
 ## Machine Leanring Models
 
