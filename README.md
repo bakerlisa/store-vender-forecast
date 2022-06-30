@@ -8,7 +8,7 @@ Author: Lisa Broadhead
 Shows how store count and size has gone down, but more medium sized store are being built
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_built.png" />
 
-hough less stores are being built revuen has still continued to raise
+Though less stores are being built revuene has still continued to raise
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
 
 
