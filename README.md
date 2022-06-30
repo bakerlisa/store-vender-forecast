@@ -6,7 +6,10 @@ Author: Lisa Broadhead
 <strong>Data:</strong>
 https://drive.google.com/drive/u/0/folders/1p5lPFn2pmZ0XtW_4oIjYB8PXxETe2Rg9
 
+<strong>Full Document:</strong>
+https://github.com/lisabroadhead/store-vender-forecast/blob/main/project_part_4.ipynb
 ## Data Science Predictive Model
+
 
 Store counts went down, reunve stayed the same, and more SuperMarket Type 1 are being built
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_sales_2.png" />
