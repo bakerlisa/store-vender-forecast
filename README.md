@@ -5,7 +5,7 @@ Author: Lisa Broadhead
 
 ## Data Science Predictive Model
 
-Shows how store count and size has gone down, but more medium sized store are being built
+Store counts went down, reunve stayed the same, and more SuperMarket1 are being built
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_sales_2.png" />
 
 Though less stores are being built revuene has still continued to raise
