@@ -5,7 +5,8 @@ Author: Lisa Broadhead
 
 ## Data Science Predictive Model
 
-https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_built.png
+Shows how over the years less stroes are being built
+<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_built.png" />
 
 
 ## Machine Leanring Models
