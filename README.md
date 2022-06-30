@@ -3,7 +3,7 @@ Helps the retailer understand the properties of products and outlets that play c
 
 Author: Lisa Broadhead
 
-Data: 
+<strong>Data:</strong>
 https://drive.google.com/drive/u/0/folders/1p5lPFn2pmZ0XtW_4oIjYB8PXxETe2Rg9
 
 ## Data Science Predictive Model
