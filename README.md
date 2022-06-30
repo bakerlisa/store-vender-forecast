@@ -3,6 +3,9 @@ Helps the retailer understand the properties of products and outlets that play c
 
 Author: Lisa Broadhead
 
+Data: 
+https://drive.google.com/drive/u/0/folders/1p5lPFn2pmZ0XtW_4oIjYB8PXxETe2Rg9
+
 ## Data Science Predictive Model
 
 Store counts went down, reunve stayed the same, and more SuperMarket Type 1 are being built
@@ -17,11 +20,6 @@ Of the SuperMarket Type 1, medium-low locations are bringing in the most revune.
 ### Results
 Based on our models, SuperMarket Type 1, Medium-Low stores are the best stores to build
 ## Machine Leanring Models
-
-
-Data: 
-
-https://drive.google.com/drive/u/0/folders/1p5lPFn2pmZ0XtW_4oIjYB8PXxETe2Rg9
 
 ### Methods
 
