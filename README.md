@@ -11,19 +11,23 @@ https://github.com/lisabroadhead/store-vender-forecast/blob/main/project_part_4.
 
 ## Data Science Predictive Model
 
-Store counts went down, reunve stayed the same, and more SuperMarket Type 1 are being built
+Store counts went down, revenue stayed the same, and more SuperMarket Type 1 are being built
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_sales_2.png" />
 
-Reunve didn't go down because SuperMarket Type 1 were being built and they're bringin in the most revenu. Even though, based on product cateogry they don't have the highest priced items. 
+Revenue didn't go down because SuperMarket Type 1 was being built and they're bringing in the most revenue. Even though, based on product category they don't have the highest priced items. 
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
 
-Of the SuperMarket Type 1, medium-low locations are bringing in the most revune.
+Of the SuperMarket Type 1, medium-low locations are bringing in the most revenue.
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/store_type_size%20(1).png" />
 
-### Results
-Based on our models, SuperMarket Type 1, Medium-Low stores are the best stores to build
+### Breakdown
+1. Barplots were chosen because for their simplicity in relaying data quickly and efficiently 
+2. One lineplot was chosen because the flow of reverent needed to be show and a lineplot explained that best 
 
-## Machine Leanring Models
+### Summary
+Businesses are driven by revenue and sales. First there was an exploration into what was bringing in the most revenue. Upon analysis of the data it became apparent that shopping categories overall revenue had less impact than on the store itself. Further analysis, showed that correlation between store size and type was leading to the stores overall revenue success. That is what these charts so heavily focus on store type and size to generate the final conclusion.  
+
+## Machine Learning Models
 <strong>Full Documentation</strong>
 https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_models.ipynb
 
@@ -34,10 +38,12 @@ https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_mode
 Bagged Regression model will be the best model to use
 
 ### Limitations & Next Steps
-Our prediviet models are not very accurate and our large numbers are being penalized. We're unalbe to get out numbers above .6 range, in orger to get a better model, more data is needed.
+Our prediviet models are not very accurate and our large numbers are being penalized. We're unable to get out numbers above .6 range, in order to get a better model, more data is needed.
 
 
 ### For further information
 For any additional questions, please contact email
 Lisa Broadhead
 lb.broadhead@gmail.com
+
+
