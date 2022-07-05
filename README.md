@@ -37,6 +37,7 @@ Based on the information that has been curated, the best next step is to test ou
 https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_models.ipynb
 
 ### Methods
+fig 1: Overview of the regression models, visual explanation of how the data is working  and why one model was chosen over the others
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression.png" />
 
 ### Results
@@ -50,7 +51,3 @@ Our prediviet models are not very accurate and our large numbers are being penal
 For any additional questions, please contact email
 Lisa Broadhead
 lb.broadhead@gmail.com
-
-
-
-
