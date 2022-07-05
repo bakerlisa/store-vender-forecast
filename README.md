@@ -44,10 +44,10 @@ fig 1: Overview of the regression models, visual explanation of how the data is 
 1. Lineplot chosen because of its simplicity in relaying the flow between the max depth and accuracy 
 
 ### Results
-Bagged Regression model will be the best model to use
+Based on the success of the other models looked at, bagged regression was able to maintain the highest accuracy between both test and train datal 
 
 ### Limitations & Next Steps
-Our prediviet models are not very accurate and our large numbers are being penalized. We're unable to get out numbers above .6 range, in order to get a better model, more data is needed.
+Even with extensive testing, our test and training data are both only able to rise so high. Because of this our model accuracy is still inthe .6 range. If a higher accuracy rate for both the training and test data sets were needed, more data would need to be acquired.
 
 
 ### For further information
