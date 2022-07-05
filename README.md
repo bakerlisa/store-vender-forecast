@@ -50,7 +50,7 @@ Based on the success of the other models looked at, bagged regression was able t
 Even with extensive testing, our test and training data are both only able to rise so high. Because of this our model accuracy is still inthe .6 range. If a higher accuracy rate for both the training and test data sets were needed, more data would need to be acquired.
 
 
-### For further information
+## For further information
 For any additional questions, please contact email
 Lisa Broadhead
 lb.broadhead@gmail.com
