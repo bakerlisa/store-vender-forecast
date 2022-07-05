@@ -27,6 +27,11 @@ Of the SuperMarket Type 1, medium-low locations are bringing in the most revenue
 ### Summary
 Businesses are driven by revenue and sales. First there was an exploration into what was bringing in the most revenue. Upon analysis of the data it became apparent that shopping categories overall revenue had less impact than on the store itself. Further analysis, showed that correlation between store size and type was leading to the stores overall revenue success. That is what these charts so heavily focus on store type and size to generate the final conclusion.  
 
+### Limitations & Next Steps
+Limitations to this model consist mainly in its simplicity and lack of data. More factors than just type and size could be affecting the success of the store. For example the size of the city, other store in the area, could adobe playin a part.
+
+Based on the information that has been curated, the best next step is to test our theory on live data to give a better idea on how your predictions will play out in the future. 
+
 ## Machine Learning Models
 <strong>Full Documentation</strong>
 https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_models.ipynb
@@ -45,5 +50,7 @@ Our prediviet models are not very accurate and our large numbers are being penal
 For any additional questions, please contact email
 Lisa Broadhead
 lb.broadhead@gmail.com
+
+
 
 
