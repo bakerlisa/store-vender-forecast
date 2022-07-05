@@ -11,14 +11,14 @@ https://github.com/lisabroadhead/store-vender-forecast/blob/main/project_part_4.
 
 ## Data Science Predictive Model and Analysis
 
-<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_sales_2.png" />
 fig 1: Store counts went down, revenue stayed the same, and more SuperMarket Type 1 are being built
+<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/stores_sales_2.png" />
 
-<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
 fig 2: Revenue didn't go down because SuperMarket Type 1 was being built and they're bringing in the most revenue. Even though, based on product category they don't have the highest priced items. 
+<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
 
-<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/store_type_size%20(1).png" />
 fig 3: Of the SuperMarket Type 1, medium-low locations are bringing in the most revenue.
+<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/store_type_size%20(1).png" />
 
 ### Breakdown
 1. Barplots were chosen because for their simplicity in relaying data quickly and efficiently 
