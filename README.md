@@ -40,6 +40,9 @@ https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_mode
 fig 1: Overview of the regression models, visual explanation of how the data is working  and why one model was chosen over the others
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression.png" />
 
+### Compilation Breakdown
+1. Lineplot chosen because of its simplicity in relaying the flow between the max depth and accuracy 
+
 ### Results
 Bagged Regression model will be the best model to use
 
@@ -51,3 +54,6 @@ Our prediviet models are not very accurate and our large numbers are being penal
 For any additional questions, please contact email
 Lisa Broadhead
 lb.broadhead@gmail.com
+
+
+
