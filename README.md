@@ -34,7 +34,7 @@ https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_mode
 Bagged Regression model will be the best model to use
 
 ### Limitations & Next Steps
-Our prediviet models are not very accurate and our large numbers are being penalized.
+Our prediviet models are not very accurate and our large numbers are being penalized. We're unalbe to get out numbers above .6 range, in orger to get a better model, more data is needed.
 
 
 ### For further information
