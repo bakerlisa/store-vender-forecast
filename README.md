@@ -1,11 +1,10 @@
-## Business Problem
-
 # Store Vender Forecast Model
 
-Helps the retailer understand the properties of products and outlets that play crucial roles in predicting sales
+## Business Problem
+Help the retailer understand the properties of products and outlets that play crucial roles in predicting sales.
 
 ## Goal 
-Predict the size and type of outlets based on the given features.
+Predict the size and type of outlets based on the given features to meet the business problem.
 
 Author: Lisa Broadhead
 
