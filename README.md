@@ -24,6 +24,7 @@ fig 2: Revenue didn't go down because SuperMarket Type 1 was being built and the
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/Screen%20Shot%202022-06-30%20at%2012.06.43%20PM.png" />
 
 fig 3: Of the SuperMarket Type 1, medium-low locations are bringing in the most revenue.
+- check the right image, have it go sideways
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/store_type_size%20(1).png" />
 
 ### Compilation Breakdown
@@ -51,6 +52,8 @@ fig 1: Overview of the regression models, visual explanation of how the data is 
 
 ### Results
 Based on the success of the other models looked at, bagged regression was able to maintain the highest accuracy between both test and train datal 
+1. what model you used and what the evaluation was
+2. what you did to optimize it
 
 ### Limitations & Next Steps
 Even with extensive testing, our test and training data are both only able to rise so high. Because of this our model accuracy is still inthe .6 range. If a higher accuracy rate for both the training and test data sets were needed, more data would need to be acquired.
