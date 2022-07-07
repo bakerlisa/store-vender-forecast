@@ -44,6 +44,9 @@ https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_mode
 fig 1: Overview of the regression models, visual explanation of how the data is working  and why one model was chosen over the others
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression.png" />
 
+fig 2: Overview of our evalution metrics. They follow our best tune models, with a higher training data and a lower test data
+<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/evaluations%20(1).png"/>
+
 ### Compilation Breakdown
 1. Lineplot chosen because of its simplicity in relaying the flow between the max depth and accuracy 
 
