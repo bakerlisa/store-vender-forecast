@@ -44,16 +44,14 @@ https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression_mode
 fig 1: Overview of the regression models, visual explanation of how the data is working  and why one model was chosen over the others
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/regression.png" />
 
-fig 2: Overview of our evalution metrics. They follow our best tune models, with a higher training data and a lower test data
+fig 2: Overview of our evaluation metrics. They follow our best tune models, with a higher training data and a lower test data
 <img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/evaluations%20(1).png"/>
 
 ### Compilation Breakdown
 1. Lineplot chosen because of its simplicity in relaying the flow between the max depth and accuracy 
 
 ### Results
-Based on the success of the other models looked at, bagged regression was able to maintain the highest accuracy between both test and train datal 
-1. what model you used and what the evaluation was
-2. what you did to optimize it
+Based on the success of the other models looked at, random forests were able to produce the best models. Even after tuning the best tuning accomplished was in the .6 range. When the models were evaluated random forests were able to hold a better training and test score. The test score is still at 50% accuracy. If more accuracy was required more data would need to be supplied.  
 
 ### Limitations & Next Steps
 Even with extensive testing, our test and training data are both only able to rise so high. Because of this our model accuracy is still inthe .6 range. If a higher accuracy rate for both the training and test data sets were needed, more data would need to be acquired.
@@ -63,6 +61,3 @@ Even with extensive testing, our test and training data are both only able to ri
 For any additional questions, please contact email
 Lisa Broadhead
 lb.broadhead@gmail.com
-
-
-
