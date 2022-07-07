@@ -23,7 +23,7 @@ fig 2: Revenue didn't go down because SuperMarket Type 1 was being built and the
 
 fig 3: Of the SuperMarket Type 1, medium-low locations are bringing in the most revenue.
 - check the right image, have it go sideways
-<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/store_type_size%20(1).png" />
+<img src="https://github.com/lisabroadhead/store-vender-forecast/blob/main/store_type_size%20(1)%20(1).png" />
 
 ### Compilation Breakdown
 1. Barplots were chosen because for their simplicity in relaying data quickly and efficiently 
